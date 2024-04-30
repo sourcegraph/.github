@@ -1,4 +1,0 @@
-{
-    "name": "pr-auditor",
-    "description": "pr-auditor audits PRs to ensure they have test plans and are reviewed before they are merged",
-}
